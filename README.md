@@ -1,2 +1,2 @@
 # Java-Projects
-The Projects are Built Only using Core Java Concept.
+The Projects are Built Only using Core Java Concepts.
